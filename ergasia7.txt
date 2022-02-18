@@ -1,0 +1,5 @@
+{"Model": "Renegade", "Year": 2020, "Starting Price": 16681}
+{"Model": "Compass", "Year": 2019, "Starting Price": 19633}
+{"Model": "Wrangler", "Year": 2022, "Starting Price": 56848}
+{"Model": "Gladiator", "Year": 2021, "Starting Price": 45365}
+{"Model": "Wrangler", "Year": 2022, "Starting Price": 56848}

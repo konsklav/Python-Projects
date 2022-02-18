@@ -1,0 +1,2 @@
+Hello, my name is Costas and this is a little bio using all ASCII characters. I was born in 2003 and I 've been living in Athens since then.
+In 2021 I started studying Computer Science in the Departement of Informatics at University of Piraeus. My hobbies are cars and motorsports.
